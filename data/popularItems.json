@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Kung Pao Chicken",
+        "description": "A spicy stir-fry dish made with chicken, peanuts, vegetables, and Sichuan peppercorns.",
+        "image_url": "https://i.postimg.cc/rsPywLJL/Kung-Pao.png"
+    },
+    {
+        "name": "Peking Duck",
+        "description": "A famous Beijing dish featuring crispy roasted duck, served with thin pancakes, scallions, and sweet bean sauce.",
+        "image_url": "https://i.postimg.cc/BbQtvpf2/duck.png"
+    },
+    {
+        "name": "Dim Sum",
+        "description": "A style of Chinese cuisine where small portions of a variety of dishes are served in steamer baskets or on small plates.",
+        "image_url": "https://i.postimg.cc/yNH1djFW/kungpao.png"
+    }
+]
