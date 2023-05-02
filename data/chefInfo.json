@@ -1,6 +1,7 @@
 [
     {
         "chef_image":"https://i.postimg.cc/m2K2xBkY/ming-tsai.png",
+        "id":"0",
         "name": "Ming Tsai",
         "specialty": "Modern Asian cuisine",
         "experience": 10,
@@ -98,6 +99,7 @@
     },
     {
         "chef_image":"https://i.postimg.cc/cHdLDhHP/Martin.png",
+        "id":"1",
         "name": "Martin Yan",
         "specialty": "Chinese and Asian Cuisine",
         "experience": 12,
@@ -195,6 +197,7 @@
     },
     {
         "chef_image":"https://i.postimg.cc/BZYngxGw/Ken-Hom.png",
+        "id":"2",
         "name": "Ken Hom",
         "specialty": "Chinese Cuisine",
         "experience": 15,
@@ -292,6 +295,7 @@
     },
     {
         "chef_image":"https://i.postimg.cc/mgMZBJ10/Christine-Cushing.png",
+        "id":"3",
         "name": "Christine Cushing",
         "specialty": "Chinese-Canadian fusion cuisine",
         "experience": 15,
@@ -389,6 +393,7 @@
     },
     {
         "chef_image":"https://i.postimg.cc/RVYqMwsn/Ching-He.png",
+        "id":"4",
         "name": "Ching-He Huang",
         "specialty": "Modern Chinese cuisine",
         "experience": 8,
@@ -486,6 +491,7 @@
     },
     {
         "chef_image":"https://i.postimg.cc/T2Cp4zn0/Andrew-Wong.png",
+        "id":"5",
         "name": "Andrew Wong",
         "specialty": "Modern Chinese Cuisine",
         "experience": 8,
