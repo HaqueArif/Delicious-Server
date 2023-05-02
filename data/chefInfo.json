@@ -6,6 +6,7 @@
         "specialty": "Modern Asian cuisine",
         "experience": 10,
         "likes": 500,
+        "total_recipes":"09",
         "bio": "Ming Tsai is a seasoned chef who has worked in some of the finest Italian restaurants in the world. His passion for food started at a young age when he spent time in his family's restaurant in Naples.",
         "recipes": [
             {
@@ -104,6 +105,7 @@
         "specialty": "Chinese and Asian Cuisine",
         "experience": 12,
         "likes": 900,
+        "total_recipes":"14",
         "bio": " Martin Yan is a celebrated chef, author, and television personality, best known for his work in Chinese and Asian cuisine. He was born in Guangzhou, China, and grew up in Hong Kong, where he developed a love of food and cooking. After moving to the United States, he studied at the University of California, Davis, and then went on to receive formal culinary training in France.",
         "recipes": [
             {
@@ -202,6 +204,7 @@
         "specialty": "Chinese Cuisine",
         "experience": 15,
         "likes": 1200,
+        "total_recipes":"19",
         "bio": "Ken Hom is a world-renowned chef, cookbook author, and television presenter specializing in Chinese cuisine. Born in Tucson, Arizona, to Chinese parents, Hom spent much of his childhood in Chicago before moving to Hong Kong as a young man.",
         "recipes": [
             {
@@ -299,7 +302,8 @@
         "name": "Christine Cushing",
         "specialty": "Chinese-Canadian fusion cuisine",
         "experience": 15,
-        "likes": 1200,
+        "likes": 853,
+        "total_recipes":"08",
         "bio": "Cushing is known for her fusion cuisine that blends Chinese and Canadian flavors. She draws inspiration from her Chinese heritage and her travels around the world to create unique dishes that are both flavorful and visually stunning.",
         "recipes": [
             {
@@ -397,7 +401,8 @@
         "name": "Ching-He Huang",
         "specialty": "Modern Chinese cuisine",
         "experience": 8,
-        "likes": 1200,
+        "likes": 1037,
+        "total_recipes":"21",
         "bio": "Huang is best known for her modern Chinese cuisine, which blends traditional Chinese cooking techniques with contemporary flavors and ingredients. She has authored several cookbooks, including Chinese Food Made Easy, Stir Crazy, and Ching's Fast Food.",
         "recipes": [
             {
@@ -496,6 +501,7 @@
         "specialty": "Modern Chinese Cuisine",
         "experience": 8,
         "likes": 700,
+        "total_recipes":"06",
         "bio": " Andrew Wong is a renowned chef and restaurateur based in London, England. He was born into a family of restaurateurs and grew up surrounded by food, spending much of his childhood in his parents' kitchens. After studying at Oxford and working in finance for several years, he realized that his true passion lay in cooking and decided to pursue a career in the culinary arts.",
         "recipes": [
             {
