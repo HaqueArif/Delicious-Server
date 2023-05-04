@@ -11,89 +11,27 @@
         "recipes": [
             {
                 "name": "Kung Pao Chicken",
+                 "rating": { "number": 4.5, "badge": "Excellent" },
                 "image":"https://i.postimg.cc/HsrsPVYW/Kung-Pao-Chicken.jpg",
-                "ingredients": [
-                    "chicken breast",
-                    "dried red chili peppers",
-                    "Sichuan peppercorns",
-                    "green onions",
-                    "garlic",
-                    "ginger",
-                    "soy sauce",
-                    "rice vinegar",
-                    "sugar",
-                    "cornstarch",
-                    "peanut oil",
-                    "roasted peanuts"
-                ],
-                "instructions": [
-                    "Cut chicken into small cubes and marinate with soy sauce, rice vinegar, sugar, and cornstarch for 20 minutes.",
-                    "Toast Sichuan peppercorns in a dry wok until fragrant and set aside.",
-                    "Heat wok over high heat and add peanut oil.",
-                    "Stir-fry chicken until cooked through and remove from wok.",
-                    "Add dried red chili peppers, green onions, garlic, and ginger to wok and stir-fry until fragrant.",
-                    "Add chicken back to wok and stir-fry with vegetables.",
-                    "Add soy sauce, rice vinegar, sugar, and cornstarch mixture to wok and stir-fry until sauce thickens.",
-                    "Add roasted peanuts and Sichuan peppercorns to wok and stir-fry for another minute.",
-                    "Serve hot with rice."
-                ]
+                "ingredients": "Chicken breast, dried red chili peppers, Sichuan peppercorns, green onions, garlic, ginger, soy sauce, rice vinegar, sugar, cornstarch, peanut oil, roasted peanut",
+                
+                "instructions": "Cut chicken into small cubes and marinate with soy sauce, rice vinegar, sugar, and cornstarch for 20 minutes. Toast Sichuan peppercorns in a dry wok until fragrant and set aside. Heat wok over high heat and add peanut oil. Stir-fry chicken until cooked through and remove from wok. Add dried red chili peppers, green onions, garlic, and ginger to wok and stir-fry until fragrant. Add chicken back to wok and stir-fry with vegetables. Add soy sauce, rice vinegar, sugar, and cornstarch mixture to wok and stir-fry until sauce thickens. Add roasted peanuts and Sichuan peppercorns to wok and stir-fry for another minute. Serve hot with rice."
                 
             },
             {
                 "name": "Mapo Tofu",
+                 "rating": { "number": 5, "badge": "Excellent" },
                 "image":"https://i.postimg.cc/WbWLvmnL/vegan-mapo-tofu-1.jpg",
-                "ingredients": [
-                    "soft tofu",
-                    "ground pork",
-                    "doubanjiang",
-                    "Sichuan peppercorns",
-                    "garlic",
-                    "ginger",
-                    "green onions",
-                    "chicken broth",
-                    "soy sauce",
-                    "cornstarch",
-                    "sesame oil"
-                ],
-                "instructions": [
-                    "Cut soft tofu into small cubes and set aside.",
-                    "Toast Sichuan peppercorns in a dry wok until fragrant and set aside.",
-                    "Heat wok over high heat and add ground pork.",
-                    "Stir-fry pork until cooked through and remove from wok.",
-                    "Add doubanjiang, garlic, ginger, and green onions to wok and stir-fry until fragrant.",
-                    "Add chicken broth and soy sauce to wok and bring to a boil.",
-                    "Add soft tofu to wok and simmer for 5 minutes.",
-                    "Mix cornstarch with water and add to wok to thicken sauce.",
-                    "Add sesame oil and Sichuan peppercorns to wok and stir-fry for another minute.",
-                    "Serve hot with rice."
-                ]
+                "ingredients": "Soft tofu, ground pork, doubanjiang, Sichuan peppercorns, garlic, ginger, green onions, chicken broth, soy sauce, cornstarch, sesame oil",
+                "instructions": "Cut soft tofu into small cubes and set aside. Toast Sichuan peppercorns in a dry wok until fragrant and set aside. Heat wok over high heat and add ground pork. Stir-fry pork until cooked through and remove from wok. Add doubanjiang, garlic, ginger, and green onions to wok and stir-fry until fragrant. Add chicken broth and soy sauce to wok and bring to a boil. Add soft tofu to wok and simmer for 5 minutes. Mix cornstarch with water and add to wok to thicken sauce. Add sesame oil and Sichuan peppercorns to wok and stir-fry for another minute. Serve hot with rice."
                 
             },
             {
                 "name": "Hot and Sour Soup",
+                 "rating": { "number": 4.5, "badge": "Excellent" },
                 "image":"https://i.postimg.cc/NFJF2XQS/Hot-and-Sour-Soup.jpg",
-                "ingredients": [
-                    "dried shiitake mushrooms",
-                    "bamboo shoots",
-                    "tofu",
-                    "chicken broth",
-                    "black vinegar",
-                    "soy sauce",
-                    "sugar",
-                    "white pepper",
-                    "cornstarch",
-                    "egg",
-                    "green onions"
-                ],
-                "instructions": [
-                    "Soak dried shiitake mushrooms in hot water until soft and slice.",
-                    "Slice bamboo shoots and tofu into thin strips.",
-                    "Bring chicken broth to a boil in a pot and add shiitake mushrooms, bamboo shoots, and tofu.",
-                    "Add black vinegar, soy sauce, sugar, and white pepper to pot and bring to a boil.",
-                    "Mix cornstarch with water and add to pot to thicken soup.",
-                    "Beat egg and slowly pour into pot while stirring soup.",
-                    "Garnish with green onions and serve hot."
-                ]
+                "ingredients": "Dried shiitake mushrooms, bamboo shoots, tofu, chicken broth, black vinegar, soy sauce, sugar, white pepper, cornstarch, egg, green onions",
+                "instructions":"Soak dried shiitake mushrooms in hot water until soft and slice. Slice bamboo shoots and tofu into thin strips. Bring chicken broth to a boil in a pot and add shiitake mushrooms, bamboo shoots, and tofu. Add black vinegar, soy sauce, sugar, and white pepper to pot and bring to a boil. Mix cornstarch with water and add to pot to thicken soup. Beat egg and slowly pour into pot while stirring soup. Garnish with green onions and serve hot."
                 
             }
         ]
@@ -110,89 +48,27 @@
         "recipes": [
             {
                 "name": "Kung Pao Chicken",
+                 "rating": { "number": 4.5, "badge": "Excellent" },
                 "image":"https://i.postimg.cc/HsrsPVYW/Kung-Pao-Chicken.jpg",
-                "ingredients": [
-                    "chicken breast",
-                    "dried red chili peppers",
-                    "Sichuan peppercorns",
-                    "green onions",
-                    "garlic",
-                    "ginger",
-                    "soy sauce",
-                    "rice vinegar",
-                    "sugar",
-                    "cornstarch",
-                    "peanut oil",
-                    "roasted peanuts"
-                ],
-                "instructions": [
-                    "Cut chicken into small cubes and marinate with soy sauce, rice vinegar, sugar, and cornstarch for 20 minutes.",
-                    "Toast Sichuan peppercorns in a dry wok until fragrant and set aside.",
-                    "Heat wok over high heat and add peanut oil.",
-                    "Stir-fry chicken until cooked through and remove from wok.",
-                    "Add dried red chili peppers, green onions, garlic, and ginger to wok and stir-fry until fragrant.",
-                    "Add chicken back to wok and stir-fry with vegetables.",
-                    "Add soy sauce, rice vinegar, sugar, and cornstarch mixture to wok and stir-fry until sauce thickens.",
-                    "Add roasted peanuts and Sichuan peppercorns to wok and stir-fry for another minute.",
-                    "Serve hot with rice."
-                ]
+                "ingredients": "Chicken breast, dried red chili peppers, Sichuan peppercorns, green onions, garlic, ginger, soy sauce, rice vinegar, sugar, cornstarch, peanut oil, roasted peanut",
+                
+                "instructions": "Cut chicken into small cubes and marinate with soy sauce, rice vinegar, sugar, and cornstarch for 20 minutes. Toast Sichuan peppercorns in a dry wok until fragrant and set aside. Heat wok over high heat and add peanut oil. Stir-fry chicken until cooked through and remove from wok. Add dried red chili peppers, green onions, garlic, and ginger to wok and stir-fry until fragrant. Add chicken back to wok and stir-fry with vegetables. Add soy sauce, rice vinegar, sugar, and cornstarch mixture to wok and stir-fry until sauce thickens. Add roasted peanuts and Sichuan peppercorns to wok and stir-fry for another minute. Serve hot with rice."
                 
             },
             {
                 "name": "Mapo Tofu",
+                 "rating": { "number": 5, "badge": "Excellent" },
                 "image":"https://i.postimg.cc/WbWLvmnL/vegan-mapo-tofu-1.jpg",
-                "ingredients": [
-                    "soft tofu",
-                    "ground pork",
-                    "doubanjiang",
-                    "Sichuan peppercorns",
-                    "garlic",
-                    "ginger",
-                    "green onions",
-                    "chicken broth",
-                    "soy sauce",
-                    "cornstarch",
-                    "sesame oil"
-                ],
-                "instructions": [
-                    "Cut soft tofu into small cubes and set aside.",
-                    "Toast Sichuan peppercorns in a dry wok until fragrant and set aside.",
-                    "Heat wok over high heat and add ground pork.",
-                    "Stir-fry pork until cooked through and remove from wok.",
-                    "Add doubanjiang, garlic, ginger, and green onions to wok and stir-fry until fragrant.",
-                    "Add chicken broth and soy sauce to wok and bring to a boil.",
-                    "Add soft tofu to wok and simmer for 5 minutes.",
-                    "Mix cornstarch with water and add to wok to thicken sauce.",
-                    "Add sesame oil and Sichuan peppercorns to wok and stir-fry for another minute.",
-                    "Serve hot with rice."
-                ]
+                "ingredients": "Soft tofu, ground pork, doubanjiang, Sichuan peppercorns, garlic, ginger, green onions, chicken broth, soy sauce, cornstarch, sesame oil",
+                "instructions": "Cut soft tofu into small cubes and set aside. Toast Sichuan peppercorns in a dry wok until fragrant and set aside. Heat wok over high heat and add ground pork. Stir-fry pork until cooked through and remove from wok. Add doubanjiang, garlic, ginger, and green onions to wok and stir-fry until fragrant. Add chicken broth and soy sauce to wok and bring to a boil. Add soft tofu to wok and simmer for 5 minutes. Mix cornstarch with water and add to wok to thicken sauce. Add sesame oil and Sichuan peppercorns to wok and stir-fry for another minute. Serve hot with rice."
                 
             },
             {
                 "name": "Hot and Sour Soup",
+                 "rating": { "number": 4.5, "badge": "Excellent" },
                 "image":"https://i.postimg.cc/NFJF2XQS/Hot-and-Sour-Soup.jpg",
-                "ingredients": [
-                    "dried shiitake mushrooms",
-                    "bamboo shoots",
-                    "tofu",
-                    "chicken broth",
-                    "black vinegar",
-                    "soy sauce",
-                    "sugar",
-                    "white pepper",
-                    "cornstarch",
-                    "egg",
-                    "green onions"
-                ],
-                "instructions": [
-                    "Soak dried shiitake mushrooms in hot water until soft and slice.",
-                    "Slice bamboo shoots and tofu into thin strips.",
-                    "Bring chicken broth to a boil in a pot and add shiitake mushrooms, bamboo shoots, and tofu.",
-                    "Add black vinegar, soy sauce, sugar, and white pepper to pot and bring to a boil.",
-                    "Mix cornstarch with water and add to pot to thicken soup.",
-                    "Beat egg and slowly pour into pot while stirring soup.",
-                    "Garnish with green onions and serve hot."
-                ]
+                "ingredients": "Dried shiitake mushrooms, bamboo shoots, tofu, chicken broth, black vinegar, soy sauce, sugar, white pepper, cornstarch, egg, green onions",
+                "instructions":"Soak dried shiitake mushrooms in hot water until soft and slice. Slice bamboo shoots and tofu into thin strips. Bring chicken broth to a boil in a pot and add shiitake mushrooms, bamboo shoots, and tofu. Add black vinegar, soy sauce, sugar, and white pepper to pot and bring to a boil. Mix cornstarch with water and add to pot to thicken soup. Beat egg and slowly pour into pot while stirring soup. Garnish with green onions and serve hot."
                 
             }
         ]
@@ -209,89 +85,27 @@
         "recipes": [
             {
                 "name": "Kung Pao Chicken",
+                 "rating": { "number": 4.5, "badge": "Excellent" },
                 "image":"https://i.postimg.cc/HsrsPVYW/Kung-Pao-Chicken.jpg",
-                "ingredients": [
-                    "chicken breast",
-                    "dried red chili peppers",
-                    "Sichuan peppercorns",
-                    "green onions",
-                    "garlic",
-                    "ginger",
-                    "soy sauce",
-                    "rice vinegar",
-                    "sugar",
-                    "cornstarch",
-                    "peanut oil",
-                    "roasted peanuts"
-                ],
-                "instructions": [
-                    "Cut chicken into small cubes and marinate with soy sauce, rice vinegar, sugar, and cornstarch for 20 minutes.",
-                    "Toast Sichuan peppercorns in a dry wok until fragrant and set aside.",
-                    "Heat wok over high heat and add peanut oil.",
-                    "Stir-fry chicken until cooked through and remove from wok.",
-                    "Add dried red chili peppers, green onions, garlic, and ginger to wok and stir-fry until fragrant.",
-                    "Add chicken back to wok and stir-fry with vegetables.",
-                    "Add soy sauce, rice vinegar, sugar, and cornstarch mixture to wok and stir-fry until sauce thickens.",
-                    "Add roasted peanuts and Sichuan peppercorns to wok and stir-fry for another minute.",
-                    "Serve hot with rice."
-                ]
+                "ingredients": "Chicken breast, dried red chili peppers, Sichuan peppercorns, green onions, garlic, ginger, soy sauce, rice vinegar, sugar, cornstarch, peanut oil, roasted peanut",
+                
+                "instructions": "Cut chicken into small cubes and marinate with soy sauce, rice vinegar, sugar, and cornstarch for 20 minutes. Toast Sichuan peppercorns in a dry wok until fragrant and set aside. Heat wok over high heat and add peanut oil. Stir-fry chicken until cooked through and remove from wok. Add dried red chili peppers, green onions, garlic, and ginger to wok and stir-fry until fragrant. Add chicken back to wok and stir-fry with vegetables. Add soy sauce, rice vinegar, sugar, and cornstarch mixture to wok and stir-fry until sauce thickens. Add roasted peanuts and Sichuan peppercorns to wok and stir-fry for another minute. Serve hot with rice."
                 
             },
             {
                 "name": "Mapo Tofu",
+                 "rating": { "number": 5, "badge": "Excellent" },
                 "image":"https://i.postimg.cc/WbWLvmnL/vegan-mapo-tofu-1.jpg",
-                "ingredients": [
-                    "soft tofu",
-                    "ground pork",
-                    "doubanjiang",
-                    "Sichuan peppercorns",
-                    "garlic",
-                    "ginger",
-                    "green onions",
-                    "chicken broth",
-                    "soy sauce",
-                    "cornstarch",
-                    "sesame oil"
-                ],
-                "instructions": [
-                    "Cut soft tofu into small cubes and set aside.",
-                    "Toast Sichuan peppercorns in a dry wok until fragrant and set aside.",
-                    "Heat wok over high heat and add ground pork.",
-                    "Stir-fry pork until cooked through and remove from wok.",
-                    "Add doubanjiang, garlic, ginger, and green onions to wok and stir-fry until fragrant.",
-                    "Add chicken broth and soy sauce to wok and bring to a boil.",
-                    "Add soft tofu to wok and simmer for 5 minutes.",
-                    "Mix cornstarch with water and add to wok to thicken sauce.",
-                    "Add sesame oil and Sichuan peppercorns to wok and stir-fry for another minute.",
-                    "Serve hot with rice."
-                ]
+                "ingredients": "Soft tofu, ground pork, doubanjiang, Sichuan peppercorns, garlic, ginger, green onions, chicken broth, soy sauce, cornstarch, sesame oil",
+                "instructions": "Cut soft tofu into small cubes and set aside. Toast Sichuan peppercorns in a dry wok until fragrant and set aside. Heat wok over high heat and add ground pork. Stir-fry pork until cooked through and remove from wok. Add doubanjiang, garlic, ginger, and green onions to wok and stir-fry until fragrant. Add chicken broth and soy sauce to wok and bring to a boil. Add soft tofu to wok and simmer for 5 minutes. Mix cornstarch with water and add to wok to thicken sauce. Add sesame oil and Sichuan peppercorns to wok and stir-fry for another minute. Serve hot with rice."
                 
             },
             {
                 "name": "Hot and Sour Soup",
+                 "rating": { "number": 4.5, "badge": "Excellent" },
                 "image":"https://i.postimg.cc/NFJF2XQS/Hot-and-Sour-Soup.jpg",
-                "ingredients": [
-                    "dried shiitake mushrooms",
-                    "bamboo shoots",
-                    "tofu",
-                    "chicken broth",
-                    "black vinegar",
-                    "soy sauce",
-                    "sugar",
-                    "white pepper",
-                    "cornstarch",
-                    "egg",
-                    "green onions"
-                ],
-                "instructions": [
-                    "Soak dried shiitake mushrooms in hot water until soft and slice.",
-                    "Slice bamboo shoots and tofu into thin strips.",
-                    "Bring chicken broth to a boil in a pot and add shiitake mushrooms, bamboo shoots, and tofu.",
-                    "Add black vinegar, soy sauce, sugar, and white pepper to pot and bring to a boil.",
-                    "Mix cornstarch with water and add to pot to thicken soup.",
-                    "Beat egg and slowly pour into pot while stirring soup.",
-                    "Garnish with green onions and serve hot."
-                ]
+                "ingredients": "Dried shiitake mushrooms, bamboo shoots, tofu, chicken broth, black vinegar, soy sauce, sugar, white pepper, cornstarch, egg, green onions",
+                "instructions":"Soak dried shiitake mushrooms in hot water until soft and slice. Slice bamboo shoots and tofu into thin strips. Bring chicken broth to a boil in a pot and add shiitake mushrooms, bamboo shoots, and tofu. Add black vinegar, soy sauce, sugar, and white pepper to pot and bring to a boil. Mix cornstarch with water and add to pot to thicken soup. Beat egg and slowly pour into pot while stirring soup. Garnish with green onions and serve hot."
                 
             }
         ]
@@ -308,89 +122,27 @@
         "recipes": [
             {
                 "name": "Kung Pao Chicken",
+                 "rating": { "number": 4.5, "badge": "Excellent" },
                 "image":"https://i.postimg.cc/HsrsPVYW/Kung-Pao-Chicken.jpg",
-                "ingredients": [
-                    "chicken breast",
-                    "dried red chili peppers",
-                    "Sichuan peppercorns",
-                    "green onions",
-                    "garlic",
-                    "ginger",
-                    "soy sauce",
-                    "rice vinegar",
-                    "sugar",
-                    "cornstarch",
-                    "peanut oil",
-                    "roasted peanuts"
-                ],
-                "instructions": [
-                    "Cut chicken into small cubes and marinate with soy sauce, rice vinegar, sugar, and cornstarch for 20 minutes.",
-                    "Toast Sichuan peppercorns in a dry wok until fragrant and set aside.",
-                    "Heat wok over high heat and add peanut oil.",
-                    "Stir-fry chicken until cooked through and remove from wok.",
-                    "Add dried red chili peppers, green onions, garlic, and ginger to wok and stir-fry until fragrant.",
-                    "Add chicken back to wok and stir-fry with vegetables.",
-                    "Add soy sauce, rice vinegar, sugar, and cornstarch mixture to wok and stir-fry until sauce thickens.",
-                    "Add roasted peanuts and Sichuan peppercorns to wok and stir-fry for another minute.",
-                    "Serve hot with rice."
-                ]
+                "ingredients": "Chicken breast, dried red chili peppers, Sichuan peppercorns, green onions, garlic, ginger, soy sauce, rice vinegar, sugar, cornstarch, peanut oil, roasted peanut",
+                
+                "instructions": "Cut chicken into small cubes and marinate with soy sauce, rice vinegar, sugar, and cornstarch for 20 minutes. Toast Sichuan peppercorns in a dry wok until fragrant and set aside. Heat wok over high heat and add peanut oil. Stir-fry chicken until cooked through and remove from wok. Add dried red chili peppers, green onions, garlic, and ginger to wok and stir-fry until fragrant. Add chicken back to wok and stir-fry with vegetables. Add soy sauce, rice vinegar, sugar, and cornstarch mixture to wok and stir-fry until sauce thickens. Add roasted peanuts and Sichuan peppercorns to wok and stir-fry for another minute. Serve hot with rice."
                 
             },
             {
                 "name": "Mapo Tofu",
+                 "rating": { "number": 5, "badge": "Excellent" },
                 "image":"https://i.postimg.cc/WbWLvmnL/vegan-mapo-tofu-1.jpg",
-                "ingredients": [
-                    "soft tofu",
-                    "ground pork",
-                    "doubanjiang",
-                    "Sichuan peppercorns",
-                    "garlic",
-                    "ginger",
-                    "green onions",
-                    "chicken broth",
-                    "soy sauce",
-                    "cornstarch",
-                    "sesame oil"
-                ],
-                "instructions": [
-                    "Cut soft tofu into small cubes and set aside.",
-                    "Toast Sichuan peppercorns in a dry wok until fragrant and set aside.",
-                    "Heat wok over high heat and add ground pork.",
-                    "Stir-fry pork until cooked through and remove from wok.",
-                    "Add doubanjiang, garlic, ginger, and green onions to wok and stir-fry until fragrant.",
-                    "Add chicken broth and soy sauce to wok and bring to a boil.",
-                    "Add soft tofu to wok and simmer for 5 minutes.",
-                    "Mix cornstarch with water and add to wok to thicken sauce.",
-                    "Add sesame oil and Sichuan peppercorns to wok and stir-fry for another minute.",
-                    "Serve hot with rice."
-                ]
+                "ingredients": "Soft tofu, ground pork, doubanjiang, Sichuan peppercorns, garlic, ginger, green onions, chicken broth, soy sauce, cornstarch, sesame oil",
+                "instructions": "Cut soft tofu into small cubes and set aside. Toast Sichuan peppercorns in a dry wok until fragrant and set aside. Heat wok over high heat and add ground pork. Stir-fry pork until cooked through and remove from wok. Add doubanjiang, garlic, ginger, and green onions to wok and stir-fry until fragrant. Add chicken broth and soy sauce to wok and bring to a boil. Add soft tofu to wok and simmer for 5 minutes. Mix cornstarch with water and add to wok to thicken sauce. Add sesame oil and Sichuan peppercorns to wok and stir-fry for another minute. Serve hot with rice."
                 
             },
             {
                 "name": "Hot and Sour Soup",
+                 "rating": { "number": 4.5, "badge": "Excellent" },
                 "image":"https://i.postimg.cc/NFJF2XQS/Hot-and-Sour-Soup.jpg",
-                "ingredients": [
-                    "dried shiitake mushrooms",
-                    "bamboo shoots",
-                    "tofu",
-                    "chicken broth",
-                    "black vinegar",
-                    "soy sauce",
-                    "sugar",
-                    "white pepper",
-                    "cornstarch",
-                    "egg",
-                    "green onions"
-                ],
-                "instructions": [
-                    "Soak dried shiitake mushrooms in hot water until soft and slice.",
-                    "Slice bamboo shoots and tofu into thin strips.",
-                    "Bring chicken broth to a boil in a pot and add shiitake mushrooms, bamboo shoots, and tofu.",
-                    "Add black vinegar, soy sauce, sugar, and white pepper to pot and bring to a boil.",
-                    "Mix cornstarch with water and add to pot to thicken soup.",
-                    "Beat egg and slowly pour into pot while stirring soup.",
-                    "Garnish with green onions and serve hot."
-                ]
+                "ingredients": "Dried shiitake mushrooms, bamboo shoots, tofu, chicken broth, black vinegar, soy sauce, sugar, white pepper, cornstarch, egg, green onions",
+                "instructions":"Soak dried shiitake mushrooms in hot water until soft and slice. Slice bamboo shoots and tofu into thin strips. Bring chicken broth to a boil in a pot and add shiitake mushrooms, bamboo shoots, and tofu. Add black vinegar, soy sauce, sugar, and white pepper to pot and bring to a boil. Mix cornstarch with water and add to pot to thicken soup. Beat egg and slowly pour into pot while stirring soup. Garnish with green onions and serve hot."
                 
             }
         ]
@@ -407,89 +159,27 @@
         "recipes": [
             {
                 "name": "Kung Pao Chicken",
+                 "rating": { "number": 4.5, "badge": "Excellent" },
                 "image":"https://i.postimg.cc/HsrsPVYW/Kung-Pao-Chicken.jpg",
-                "ingredients": [
-                    "chicken breast",
-                    "dried red chili peppers",
-                    "Sichuan peppercorns",
-                    "green onions",
-                    "garlic",
-                    "ginger",
-                    "soy sauce",
-                    "rice vinegar",
-                    "sugar",
-                    "cornstarch",
-                    "peanut oil",
-                    "roasted peanuts"
-                ],
-                "instructions": [
-                    "Cut chicken into small cubes and marinate with soy sauce, rice vinegar, sugar, and cornstarch for 20 minutes.",
-                    "Toast Sichuan peppercorns in a dry wok until fragrant and set aside.",
-                    "Heat wok over high heat and add peanut oil.",
-                    "Stir-fry chicken until cooked through and remove from wok.",
-                    "Add dried red chili peppers, green onions, garlic, and ginger to wok and stir-fry until fragrant.",
-                    "Add chicken back to wok and stir-fry with vegetables.",
-                    "Add soy sauce, rice vinegar, sugar, and cornstarch mixture to wok and stir-fry until sauce thickens.",
-                    "Add roasted peanuts and Sichuan peppercorns to wok and stir-fry for another minute.",
-                    "Serve hot with rice."
-                ]
+                "ingredients": "Chicken breast, dried red chili peppers, Sichuan peppercorns, green onions, garlic, ginger, soy sauce, rice vinegar, sugar, cornstarch, peanut oil, roasted peanut",
+                
+                "instructions": "Cut chicken into small cubes and marinate with soy sauce, rice vinegar, sugar, and cornstarch for 20 minutes. Toast Sichuan peppercorns in a dry wok until fragrant and set aside. Heat wok over high heat and add peanut oil. Stir-fry chicken until cooked through and remove from wok. Add dried red chili peppers, green onions, garlic, and ginger to wok and stir-fry until fragrant. Add chicken back to wok and stir-fry with vegetables. Add soy sauce, rice vinegar, sugar, and cornstarch mixture to wok and stir-fry until sauce thickens. Add roasted peanuts and Sichuan peppercorns to wok and stir-fry for another minute. Serve hot with rice."
                 
             },
             {
                 "name": "Mapo Tofu",
+                 "rating": { "number": 5, "badge": "Excellent" },
                 "image":"https://i.postimg.cc/WbWLvmnL/vegan-mapo-tofu-1.jpg",
-                "ingredients": [
-                    "soft tofu",
-                    "ground pork",
-                    "doubanjiang",
-                    "Sichuan peppercorns",
-                    "garlic",
-                    "ginger",
-                    "green onions",
-                    "chicken broth",
-                    "soy sauce",
-                    "cornstarch",
-                    "sesame oil"
-                ],
-                "instructions": [
-                    "Cut soft tofu into small cubes and set aside.",
-                    "Toast Sichuan peppercorns in a dry wok until fragrant and set aside.",
-                    "Heat wok over high heat and add ground pork.",
-                    "Stir-fry pork until cooked through and remove from wok.",
-                    "Add doubanjiang, garlic, ginger, and green onions to wok and stir-fry until fragrant.",
-                    "Add chicken broth and soy sauce to wok and bring to a boil.",
-                    "Add soft tofu to wok and simmer for 5 minutes.",
-                    "Mix cornstarch with water and add to wok to thicken sauce.",
-                    "Add sesame oil and Sichuan peppercorns to wok and stir-fry for another minute.",
-                    "Serve hot with rice."
-                ]
+                "ingredients": "Soft tofu, ground pork, doubanjiang, Sichuan peppercorns, garlic, ginger, green onions, chicken broth, soy sauce, cornstarch, sesame oil",
+                "instructions": "Cut soft tofu into small cubes and set aside. Toast Sichuan peppercorns in a dry wok until fragrant and set aside. Heat wok over high heat and add ground pork. Stir-fry pork until cooked through and remove from wok. Add doubanjiang, garlic, ginger, and green onions to wok and stir-fry until fragrant. Add chicken broth and soy sauce to wok and bring to a boil. Add soft tofu to wok and simmer for 5 minutes. Mix cornstarch with water and add to wok to thicken sauce. Add sesame oil and Sichuan peppercorns to wok and stir-fry for another minute. Serve hot with rice."
                 
             },
             {
                 "name": "Hot and Sour Soup",
+                 "rating": { "number": 4.5, "badge": "Excellent" },
                 "image":"https://i.postimg.cc/NFJF2XQS/Hot-and-Sour-Soup.jpg",
-                "ingredients": [
-                    "dried shiitake mushrooms",
-                    "bamboo shoots",
-                    "tofu",
-                    "chicken broth",
-                    "black vinegar",
-                    "soy sauce",
-                    "sugar",
-                    "white pepper",
-                    "cornstarch",
-                    "egg",
-                    "green onions"
-                ],
-                "instructions": [
-                    "Soak dried shiitake mushrooms in hot water until soft and slice.",
-                    "Slice bamboo shoots and tofu into thin strips.",
-                    "Bring chicken broth to a boil in a pot and add shiitake mushrooms, bamboo shoots, and tofu.",
-                    "Add black vinegar, soy sauce, sugar, and white pepper to pot and bring to a boil.",
-                    "Mix cornstarch with water and add to pot to thicken soup.",
-                    "Beat egg and slowly pour into pot while stirring soup.",
-                    "Garnish with green onions and serve hot."
-                ]
+                "ingredients": "Dried shiitake mushrooms, bamboo shoots, tofu, chicken broth, black vinegar, soy sauce, sugar, white pepper, cornstarch, egg, green onions",
+                "instructions":"Soak dried shiitake mushrooms in hot water until soft and slice. Slice bamboo shoots and tofu into thin strips. Bring chicken broth to a boil in a pot and add shiitake mushrooms, bamboo shoots, and tofu. Add black vinegar, soy sauce, sugar, and white pepper to pot and bring to a boil. Mix cornstarch with water and add to pot to thicken soup. Beat egg and slowly pour into pot while stirring soup. Garnish with green onions and serve hot."
                 
             }
         ]
@@ -506,89 +196,27 @@
         "recipes": [
             {
                 "name": "Kung Pao Chicken",
+                 "rating": { "number": 4.5, "badge": "Excellent" },
                 "image":"https://i.postimg.cc/HsrsPVYW/Kung-Pao-Chicken.jpg",
-                "ingredients": [
-                    "chicken breast",
-                    "dried red chili peppers",
-                    "Sichuan peppercorns",
-                    "green onions",
-                    "garlic",
-                    "ginger",
-                    "soy sauce",
-                    "rice vinegar",
-                    "sugar",
-                    "cornstarch",
-                    "peanut oil",
-                    "roasted peanuts"
-                ],
-                "instructions": [
-                    "Cut chicken into small cubes and marinate with soy sauce, rice vinegar, sugar, and cornstarch for 20 minutes.",
-                    "Toast Sichuan peppercorns in a dry wok until fragrant and set aside.",
-                    "Heat wok over high heat and add peanut oil.",
-                    "Stir-fry chicken until cooked through and remove from wok.",
-                    "Add dried red chili peppers, green onions, garlic, and ginger to wok and stir-fry until fragrant.",
-                    "Add chicken back to wok and stir-fry with vegetables.",
-                    "Add soy sauce, rice vinegar, sugar, and cornstarch mixture to wok and stir-fry until sauce thickens.",
-                    "Add roasted peanuts and Sichuan peppercorns to wok and stir-fry for another minute.",
-                    "Serve hot with rice."
-                ]
+                "ingredients": "Chicken breast, dried red chili peppers, Sichuan peppercorns, green onions, garlic, ginger, soy sauce, rice vinegar, sugar, cornstarch, peanut oil, roasted peanut",
+                
+                "instructions": "Cut chicken into small cubes and marinate with soy sauce, rice vinegar, sugar, and cornstarch for 20 minutes. Toast Sichuan peppercorns in a dry wok until fragrant and set aside. Heat wok over high heat and add peanut oil. Stir-fry chicken until cooked through and remove from wok. Add dried red chili peppers, green onions, garlic, and ginger to wok and stir-fry until fragrant. Add chicken back to wok and stir-fry with vegetables. Add soy sauce, rice vinegar, sugar, and cornstarch mixture to wok and stir-fry until sauce thickens. Add roasted peanuts and Sichuan peppercorns to wok and stir-fry for another minute. Serve hot with rice."
                 
             },
             {
                 "name": "Mapo Tofu",
+                 "rating": { "number": 5, "badge": "Excellent" },
                 "image":"https://i.postimg.cc/WbWLvmnL/vegan-mapo-tofu-1.jpg",
-                "ingredients": [
-                    "soft tofu",
-                    "ground pork",
-                    "doubanjiang",
-                    "Sichuan peppercorns",
-                    "garlic",
-                    "ginger",
-                    "green onions",
-                    "chicken broth",
-                    "soy sauce",
-                    "cornstarch",
-                    "sesame oil"
-                ],
-                "instructions": [
-                    "Cut soft tofu into small cubes and set aside.",
-                    "Toast Sichuan peppercorns in a dry wok until fragrant and set aside.",
-                    "Heat wok over high heat and add ground pork.",
-                    "Stir-fry pork until cooked through and remove from wok.",
-                    "Add doubanjiang, garlic, ginger, and green onions to wok and stir-fry until fragrant.",
-                    "Add chicken broth and soy sauce to wok and bring to a boil.",
-                    "Add soft tofu to wok and simmer for 5 minutes.",
-                    "Mix cornstarch with water and add to wok to thicken sauce.",
-                    "Add sesame oil and Sichuan peppercorns to wok and stir-fry for another minute.",
-                    "Serve hot with rice."
-                ]
+                "ingredients": "Soft tofu, ground pork, doubanjiang, Sichuan peppercorns, garlic, ginger, green onions, chicken broth, soy sauce, cornstarch, sesame oil",
+                "instructions": "Cut soft tofu into small cubes and set aside. Toast Sichuan peppercorns in a dry wok until fragrant and set aside. Heat wok over high heat and add ground pork. Stir-fry pork until cooked through and remove from wok. Add doubanjiang, garlic, ginger, and green onions to wok and stir-fry until fragrant. Add chicken broth and soy sauce to wok and bring to a boil. Add soft tofu to wok and simmer for 5 minutes. Mix cornstarch with water and add to wok to thicken sauce. Add sesame oil and Sichuan peppercorns to wok and stir-fry for another minute. Serve hot with rice."
                 
             },
             {
                 "name": "Hot and Sour Soup",
+                 "rating": { "number": 4.5, "badge": "Excellent" },
                 "image":"https://i.postimg.cc/NFJF2XQS/Hot-and-Sour-Soup.jpg",
-                "ingredients": [
-                    "dried shiitake mushrooms",
-                    "bamboo shoots",
-                    "tofu",
-                    "chicken broth",
-                    "black vinegar",
-                    "soy sauce",
-                    "sugar",
-                    "white pepper",
-                    "cornstarch",
-                    "egg",
-                    "green onions"
-                ],
-                "instructions": [
-                    "Soak dried shiitake mushrooms in hot water until soft and slice.",
-                    "Slice bamboo shoots and tofu into thin strips.",
-                    "Bring chicken broth to a boil in a pot and add shiitake mushrooms, bamboo shoots, and tofu.",
-                    "Add black vinegar, soy sauce, sugar, and white pepper to pot and bring to a boil.",
-                    "Mix cornstarch with water and add to pot to thicken soup.",
-                    "Beat egg and slowly pour into pot while stirring soup.",
-                    "Garnish with green onions and serve hot."
-                ]
+                "ingredients": "Dried shiitake mushrooms, bamboo shoots, tofu, chicken broth, black vinegar, soy sauce, sugar, white pepper, cornstarch, egg, green onions",
+                "instructions":"Soak dried shiitake mushrooms in hot water until soft and slice. Slice bamboo shoots and tofu into thin strips. Bring chicken broth to a boil in a pot and add shiitake mushrooms, bamboo shoots, and tofu. Add black vinegar, soy sauce, sugar, and white pepper to pot and bring to a boil. Mix cornstarch with water and add to pot to thicken soup. Beat egg and slowly pour into pot while stirring soup. Garnish with green onions and serve hot."
                 
             }
         ]
